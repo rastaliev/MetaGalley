@@ -1,0 +1,7 @@
+{
+    "name": "metagalley/galley",
+    "description": "MetaGalley — редактор HTML-гранок научных статей",
+    "require": {
+        "php": ">=7.4"
+    }
+}
